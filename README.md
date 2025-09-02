@@ -20,3 +20,16 @@ When called, the config automates the creation of a **PumpFun token** directly f
 
    ```bash
    .../Counter-Strike Global Offensive/game/csgo/cfg/
+
+## ⚡ Usage
+
+1. Launch CS2.
+
+2. Open the developer console.
+
+3. Run:
+
+   ```bash
+   exec_async createtoken
+
+✅ A PumpFun token will be created automatically based on the config instructions.

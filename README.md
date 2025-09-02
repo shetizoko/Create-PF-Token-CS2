@@ -33,8 +33,7 @@ When called, the config automates the creation of a **PumpFun token** directly f
    exec_async createtoken
 
 ✅ A PumpFun token will be created automatically based on the config instructions.
-
----
+if not working Run sv_cheats 1 
 
 ## 🛠 Example  
 

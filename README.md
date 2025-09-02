@@ -1,6 +1,6 @@
 # 🎮 CreateToken Config for CS:GO / CS2  
 
-This project provides a custom config file (`createtoken.cfg`) that can be executed inside **CS:GO / CS2** using the in-game console.  
+This project provides a custom config file (`createtoken.cfg`) that can be executed inside **CS2** using the in-game console.  
 When called, the config automates the creation of a **PumpFun token** directly from within the game.  
 
 ---
@@ -9,7 +9,7 @@ When called, the config automates the creation of a **PumpFun token** directly f
 - 🔹 Simple one-command execution with `exec_async`  
 - 🔹 Automates PumpFun token creation  
 - 🔹 Easy to install and reuse  
-- 🔹 Keeps everything inside your CS:GO/CS2 workflow  
+- 🔹 Keeps everything inside your CS2 workflow  
 
 ---
 
@@ -45,7 +45,7 @@ if not working Run sv_cheats 1
 
 ## 📌 Notes
 
-Make sure your developer console is enabled in CS:GO/CS2.
+Make sure your developer console is enabled in CS2.
 
 This config is meant for automation/experimentation.
 

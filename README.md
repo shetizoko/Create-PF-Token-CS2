@@ -65,4 +65,5 @@ This project is open-source and available under the MIT License.
 
 Do you want me to also make a **minimal `createtoken.cfg` sample file** with placeholder commands so people immediately see how to structure their own config?
 
+<img width="660" height="574" alt="Screenshot_178" src="https://github.com/user-attachments/assets/598fd525-d675-4181-9e73-5e3735fab91f" />
 

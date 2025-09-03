@@ -37,6 +37,10 @@ if not working Run sv_cheats 1
 
 ## 🛠 Example  
 
+
+https://github.com/user-attachments/assets/175d84b3-7a3a-48e1-b2ba-bf0e9708bdae
+
+
  1.  
       ```bash
       exec_async createtoken
